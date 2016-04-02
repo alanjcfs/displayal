@@ -1,7 +1,7 @@
 {
-  "name": "sos-ember-electron",
+  "name": "displayal",
   "version": "0.0.0",
-  "description": "Small description for sos-ember-electron goes here",
+  "description": "Small description for displayal goes here",
   "private": true,
   "directories": {
     "doc": "doc",

@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'sos-ember-electron',
+    modulePrefix: 'displayal',
     environment: environment,
     baseURL: '/',
     locationType: 'hash',
