@@ -3,7 +3,7 @@ import config from './config/environment';
 
 const Router = Ember.Router.extend({
   location: config.locationType,
-  rootUrl: '/my-pretties'
+  rootURL: config.rootURL
 });
 
 Router.map(function() {
